@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 # === Your Telegram Bot Token ===
-BOT_TOKEN = "7921986911:AAHEkQ8_D6-x0xCpu8ubh5TKjwQVfzxORjM"
+BOT_TOKEN = ""
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # === Handle /start command ===
